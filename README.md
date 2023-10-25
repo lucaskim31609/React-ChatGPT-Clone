@@ -1,3 +1,5 @@
+I've created a modern and interactive chat application, using JavaScript, React, Node.js, and CSS. This fully functional web app closely resembles the design and functionality of a popular messaging platform, allowing users to have real-time conversations and manage their messages seamlessly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
